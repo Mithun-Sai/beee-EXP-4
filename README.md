@@ -73,7 +73,7 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 </table>
 
 ### Full Wave Rectifier:
-<img width="1067" height="572" alt="exp4 Full wave rectifier circuit" src="https://github.com/user-attachments/assets/de646e72-9711-40db-bfc5-95f21fe71249" />
+<img width="1060" height="548" alt="exp4 Full wave rectifier circuit" src="https://github.com/user-attachments/assets/1a645602-12c8-4ecd-8ed7-176c20396efb" />
 
 ### Waveform:
 <img width="1065" height="527" alt="exp4 Full wave rectifier graph" src="https://github.com/user-attachments/assets/1402a413-7956-44c8-be60-d47ad65a58c8" />
