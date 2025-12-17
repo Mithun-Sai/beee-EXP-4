@@ -36,8 +36,10 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 
 ### Half wave rectifier:
 <img width="664" height="469" alt="exp4 Half wave rectifier circuit" src="https://github.com/user-attachments/assets/e8a42b0d-22da-4ca1-b4c9-56cb8cb5e663" />
+
 ### Waveform:
 <img width="1052" height="585" alt="exp4 Half wave rectifier graph" src="https://github.com/user-attachments/assets/26465b41-5999-4023-94e4-9008df8d40ea" />
+
 ## TABULAR COLUMN:
 <table>
   <thead>
@@ -72,8 +74,10 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 
 ### Full Wave Rectifier:
 <img width="1067" height="572" alt="exp4 Full wave rectifier circuit" src="https://github.com/user-attachments/assets/de646e72-9711-40db-bfc5-95f21fe71249" />
+
 ### Waveform:
 <img width="1065" height="527" alt="exp4 Full wave rectifier graph" src="https://github.com/user-attachments/assets/1402a413-7956-44c8-be60-d47ad65a58c8" />
+
 ### Tabular:
 <table>
   <thead>
